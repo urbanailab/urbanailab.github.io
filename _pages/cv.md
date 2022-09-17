@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer and Urban Science, Massachusetts Institute of Technology, 2020
+* Master of Science in Transportation, Master in City Planning; Massachusetts Institute of Technology, 2017
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
