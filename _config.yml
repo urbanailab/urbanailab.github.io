@@ -84,12 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : "Artificial intelligence for urban analytics"
   location         : "Gainesville, FL; Cambridge, MA"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "https://dcp.ufl.edu/urp/people_wang_s/"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=01AmQ8wAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            : "shenhaowang@ufl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
