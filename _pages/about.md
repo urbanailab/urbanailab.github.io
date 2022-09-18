@@ -8,15 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Urban Artificial Intelligence Lab seeks to rebuild the urban theory with artificial intelligence. 
+The Urban AI lab seeks to develop fundamental theory for urban science using artificial intelligence with three research themes. The first research theme focuses on the individual decisions in the urban mobility by combining the classical discrete choice models and the recent deep learning. The applications include the choice of travel mode, vehicles, route, and activities. The second research theme treats the urban system as a network, and by integrating the classical network theory and graph neural networks, it quantifies the risk and uncertainty in the urban system, thus promoting resilience in transit networks and economic development. The third research theme focuses on the normative aspect of urban theory by enhancing the transparency, accountability, and fairness of the urban machine intelligence for broad social impacts. With the innovation in theory and the impact in practice, the lab seeks to create a more sustainable, automatic, and equitable urban future with artificial intelligence. 
+
+## We are hiring
+The lab is recruiting a candidate for a fully funded Ph.D. position, who can start the Ph.D. program in 2023 Fall with the application starting in 2022 Fall. The Ph.D. candidate is funded by fellowship or research assistantship, covering the tuition and the stipend. The ideal Ph.D. candidate should have the following capacity:
+1. The candidate should have a long-term goal of contributing to academia. During the Ph.D. period, the candidate should focus on publishing and presenting the research. 
+1. The candidate shall have any one of the following education backgrounds, including computer science, urban planning, transportation engineering, geographical information system (GIS), economics, statistics, or architecture/landscape design.
+1. The candidate can use machine learning or statistics for mathematical modeling with a deep understanding of the mathematical foundations including linear algebra, statistics, and machine learning.
+1. The candidate is familiar with Python and R. 
+1. The candidate is proficient in English writing and speaking. 
+
+Please send your resume and a statement of interests to Dr. Wang (shenhaowang@ufl.edu). Please highlight your GPA in your resume and elaborate on your plan for the Ph.D. position and why your past experiences fit this position in the state of interests. In your application, please say explicitly that you are willing to collaborate with Prof. Shenhao Wang with elaboration on the overlapping research interests. 
 
 ## Our work
-
-
-## Director: Dr. Shenhao Wang
-
+The work has been published in a wide range of journals and conferences. Our work about integrating discrete choice models and deep neural networks has been published in Transportation Research Part B: Methodological, Transportation Research Part C: emerging technologies, and Journal of Choice Modeling. Our work about mobility networks has been published in IEEE Transactions on Intelligent Transportation Systems and ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. Our work about computational fairness and smart governance has been published in Transportation Research Part A: Policy and Practice and International Journal of Sustainable Transportation. The research has been funded by Department of Energy (DOE) and Singapore-MIT Alliance for Research and Technology (SMART).
 
 ## Intellectual communities
+The Urban AI lab is highly interdisciplinary, so it contributes to multiple intellectual communities. The lab contributes to the modeling of individual travel behavior, which belongs to the fields of urban planning, civil engineering, and decision science. It also connects the behavioral analysis to policy discussions, so it relates to the fields of economics, governance, and public policy. Methodologically, the lab also publishes in the leading computer science conferences, thus contributing to the fields of artificial intelligence, machine learning, and data mining. The Urban AI lab has deep collaborations with the leading laboratories around the world, such as MIT Urban Mobility Lab, MIT Media Lab, Berkeley Institute of Transportation Studies. 
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
