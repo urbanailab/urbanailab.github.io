@@ -1,5 +1,5 @@
 ---
-title: "Urban artificial intelligence: advanced analytical methods"
+title: "Urban artificial intelligence"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-fall-teaching-urban-ai
