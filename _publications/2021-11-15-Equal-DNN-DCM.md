@@ -2,10 +2,8 @@
 title: "Equality of opportunity in travel demand prediction with deep neural networks and discrete choice models"
 collection: publications
 permalink: /publication/2021-11-15-Equal-DNN-DCM
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-11-15
 venue: 'Transportation Research Part C: Emerging Technologies'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Y. Zheng, S. Wang*, and J. Zhao. (2021). &quot;Equality of opportunity in travel demand prediction with deep neural networks and discrete choice models&quot; <i>Transportation Research Part C: Emerging Technologies</i>. 132: 103410.'
 ---
 
