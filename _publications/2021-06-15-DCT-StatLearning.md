@@ -2,10 +2,8 @@
 title: "Deep neural networks for choice analysis: A statistical learning theory perspective"
 collection: publications
 permalink: /publication/2021-06-15-DCT-StatLearning
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-06-15
 venue: 'Transportation Research Part B: Methodological'
-paperurl: '[link](https://www.sciencedirect.com/science/article/pii/S0191261521000564?casa_token=WMV8x8W3KmQAAAAA:DDgxk319N2fQ1mU6XwTg5c3I2vJUE5Un1II8-4m9egtRsRbs_gmeuCU_STawLb5Ut-gSnUJMwJE)'
 citation: 'S. Wang, Q. Wang, N. Bailey, and J. Zhao*. (2021). &quot;Deep neural networks for choice analysis: A statistical learning theory perspective&quot; <i>Transportation Research Part B: Methodological</i>. 148: 60-81.'
 ---
 
