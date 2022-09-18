@@ -1,5 +1,5 @@
 ---
-title: "Urban artificial intelligence"
+title: "Urban Artificial Intelligence"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-fall-teaching-urban-ai
