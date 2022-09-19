@@ -8,13 +8,3 @@ date: 2023-09-01
 location: "Gainesville, FL"
 ---
 
-
-<!-- Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
- -->
