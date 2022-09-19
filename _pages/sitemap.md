@@ -9,3 +9,4 @@ author_profile: true
 
 <h2>Pages</h2>
 
+Page not found. Check the speed of your internet connection!
