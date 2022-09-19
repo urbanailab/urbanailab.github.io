@@ -1,5 +1,5 @@
 ---
-title: "Urban Artificial Intelligence"
+title: "Artificial Intelligence in Cities (upcoming, Fall 2023)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-fall-teaching-urban-ai
@@ -8,7 +8,6 @@ date: 2023-09-01
 location: "Gainesville, FL"
 ---
 
-upcoming description.
 
 <!-- Heading 1
 ======
