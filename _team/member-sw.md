@@ -1,6 +1,6 @@
 ---
 title: "Shenhao Wang"
-excerpt: "Shenhao Wang is the director of the Urban AI Lab. <br/><img src='/images/member-sw.jpeg'>"
+excerpt: Director of Urban AI Lab. <br/><img src='/images/member-sw.jpeg'>"
 collection: portfolio
 ---
 
