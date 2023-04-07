@@ -16,20 +16,24 @@ MIT-UF-NEU 2023 joint summer internship program is organized by Prof. Jinhua Zha
 ### Program team
 PI team: [Prof.  Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao), [Prof. Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/), and [Prof. Haris Koutsopoulos](https://coe.northeastern.edu/people/koutsopoulos-haris/). 
 Doctoral student team: Xiaotong Guo, Qingyi Wang, Dingyi Zhuang, Ao Qu, Yunhan Zheng, Joseph Rodriguez, John Moody
+
 ### Target students
 Students who will apply for Ph.Ds (and masters) in the next two years, preferably this upcoming 2023 fall semester for PhD programs.
 * Background (type 1): major in urban planning, urban management, GIS, landscape, human geography, or architecture, but also with background and strong interests in machine learning or statistics.
 * Background (type 2): major in transportation, civil engineering, computer science, or other engineering fields, but with strong interests in smart city applications.
+
 ### Anticipated task
 * Complete research projects designed by a doctoral student. 
 * Think about the research project in your own way and have some extensions.
 * Final project presentation.
+
 ### Timeline
 *	Application period: now to May 15th
 *	Applicants notification: late May
 *	Program kick-off meeting: late May or early June
 *	Research period: early June to early September
 *	Final project presentation: early September
+
 ### Application portal
 For students who are interesting into this program, please fill out the following form [here](https://forms.gle/SMruQiNDVXNPCJVF8). 
 
