@@ -34,7 +34,7 @@ Students who will apply for Ph.Ds (and masters) in the next two years, preferabl
 For students who are interesting into this program, please fill out the following form [here](https://forms.gle/SMruQiNDVXNPCJVF8). 
 
 
-## We are hiring
+## We are hiring Ph.D. students
 The lab is recruiting a candidate for a **fully funded Ph.D. position**, who can start the Ph.D. program in 2024 Spring/Fall with the application starting in 2023 Fall. The Ph.D. candidate will be in the [Department of Urban and Regional Planning](https://dcp.ufl.edu/academics/phd8/), [College of Design, Construction, and Planning](https://dcp.ufl.edu/) at the [University of Florida](https://www.ufl.edu/). The candidate is also expected to obtain a master's degree in [Computer Science](https://www.cise.ufl.edu/academics/graduate/masters-program/) due to the research focus on urban AI. The Ph.D. position is funded by fellowship or research assistantship, covering tuition and stipend. The ideal Ph.D. candidate should have the following capacity:
 1. The candidate should have a long-term goal of contributing to the academia. During the Ph.D. period, the candidate should focus on publishing and presenting the research. 
 2. The candidate shall have any one of the following education backgrounds, including computer science, urban planning, transportation engineering, geographical information system (GIS), economics, statistics, or architecture/landscape design.
