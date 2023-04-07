@@ -11,8 +11,16 @@ redirect_from:
 The Urban AI lab develops fundamental theory for urban science using artificial intelligence. It has three research themes. The first focuses on intergrating the theoretical foundation of discrete choice models and computational power of deep learning to examine individual travel decisions, such as the choices of travel modes, route, and urban activities. The second analyzes the risk and uncertainy of the urban networks by synergizing the classical network theory and graph neural networks, thus promoting resilience in transportation system and economic growth. The third focuses on the normative urban theory by enhancing the transparency, accountability, and fairness of the urban machine intelligence to achieve broad social impacts. With our innovation in theory and impact in practice, the lab seeks to create a sustainable, automatic, and equitable urban future with artificial intelligence. 
 
 ## MIT-UF-NEU 2023 Joint Summer Internship Program
-#### Program Description
+#### Program Description. 
 MIT-UF-NEU 2023 joint summer internship program is organized by Prof. Jinhua Zhao from the Department of Urban Studies and Planning at MIT, Prof. Shenhao Wang from the Department of Urban and Regional Planning at the University of Florida, and Prof. Haris Koutsopoulos from the Department of Civil and Environmental Engineering at Northeastern University. The program targets to recruit students who have the ambition on conducting research in transportation and urban planning. The internship program will be held fully remotely and the length of the program is three months. 
+#### Program Team.
+PI team: [Prof.  Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao), [Prof. Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/), and [Prof. Haris Koutsopoulos](https://coe.northeastern.edu/people/koutsopoulos-haris/). 
+Doctoral student team: Xiaotong Guo, Qingyi Wang, Dingyi Zhuang, Ao Qu, Yunhan Zheng, Joseph Rodriguez, John Moody
+#### Target Students.
+Students who will apply for Ph.Ds (and masters) in the next two years, preferably this upcoming 2023 fall semester for PhD programs.
+* Background (type 1): major in urban planning, urban management, GIS, landscape, human geography, or architecture, but also with background and strong interests in machine learning or statistics.
+* Background (type 2): major in transportation, civil engineering, computer science, or other engineering fields, but with strong interests in smart city applications.
+
 
 
 ## We are hiring
