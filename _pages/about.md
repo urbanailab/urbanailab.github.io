@@ -30,7 +30,7 @@ Students who will apply for Ph.Ds (and masters) in the next two years, preferabl
 *	Program kick-off meeting: late May or early June
 *	Research period: early June to early September
 *	Final project presentation: early September
-#### Application Portal
+#### Application portal
 For students who are interesting into this program, please fill out the following form [here](https://forms.gle/SMruQiNDVXNPCJVF8). 
 
 
