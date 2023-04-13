@@ -10,44 +10,6 @@ redirect_from:
 
 The Urban AI lab develops fundamental theory for urban science using artificial intelligence. It has three research themes. The first focuses on intergrating the theoretical foundation of discrete choice models and computational power of deep learning to examine individual travel decisions, such as the choices of travel modes, route, and urban activities. The second analyzes the risk and uncertainy of the urban networks by synergizing the classical network theory and graph neural networks, thus promoting resilience in transportation system and economic growth. The third focuses on the normative urban theory by enhancing the transparency, accountability, and fairness of the urban machine intelligence to achieve broad social impacts. With our innovation in theory and impact in practice, the lab seeks to create a sustainable, automatic, and equitable urban future with artificial intelligence. 
 
-## MIT-UF-NEU 2023 Joint Summer Internship Program
-### Program description
-MIT-UF-NEU 2023 joint summer internship program is organized by Prof. Jinhua Zhao from the Department of Urban Studies and Planning at MIT, Prof. Shenhao Wang from the Department of Urban and Regional Planning at the University of Florida, and Prof. Haris Koutsopoulos from the Department of Civil and Environmental Engineering at Northeastern University. The program targets to recruit students who have the ambition on conducting research in transportation and urban planning. The internship program will be held fully remotely and the length of the program is three months. 
-### Program team
-PI team: [Prof.  Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao), [Prof. Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/), and [Prof. Haris Koutsopoulos](https://coe.northeastern.edu/people/koutsopoulos-haris/). 
-Doctoral student team: Xiaotong Guo, Qingyi Wang, Dingyi Zhuang, Ao Qu, Yunhan Zheng, Joseph Rodriguez, John Moody
-
-### Target students
-Students who will apply for Ph.Ds (and masters) in the next two years, preferably this upcoming 2023 fall semester for PhD programs.
-* Background (type 1): major in urban planning, urban management, GIS, landscape, human geography, or architecture, but also with background and strong interests in machine learning or statistics.
-* Background (type 2): major in transportation, civil engineering, computer science, or other engineering fields, but with strong interests in smart city applications.
-
-### Anticipated task
-* Complete research projects designed by a doctoral student. 
-* Think about the research project in your own way and have some extensions.
-* Final project presentation.
-
-### Timeline
-*	Application period: now to May 15th
-*	Applicants notification: late May
-*	Program kick-off meeting: late May or early June
-*	Research period: early June to early September
-*	Final project presentation: early September
-
-### Application portal
-For students who are interesting into this program, please fill out the following form [here](https://forms.gle/SMruQiNDVXNPCJVF8). 
-
-
-## We are hiring Ph.D. students
-The lab is recruiting a candidate for a **fully funded Ph.D. position**, who can start the Ph.D. program in 2024 Spring/Fall with the application starting in 2023 Fall. The Ph.D. candidate will be in the [Department of Urban and Regional Planning](https://dcp.ufl.edu/academics/phd8/), [College of Design, Construction, and Planning](https://dcp.ufl.edu/) at the [University of Florida](https://www.ufl.edu/). The candidate is also expected to obtain a master's degree in [Computer Science](https://www.cise.ufl.edu/academics/graduate/masters-program/) due to the research focus on urban AI. The Ph.D. position is funded by fellowship or research assistantship, covering tuition and stipend. The ideal Ph.D. candidate should have the following capacity:
-1. The candidate should have a long-term goal of contributing to the academia. During the Ph.D. period, the candidate should focus on publishing and presenting the research. 
-2. The candidate shall have any one of the following education backgrounds, including computer science, urban planning, transportation engineering, geographical information system (GIS), economics, statistics, or architecture/landscape design.
-3. The candidate can use machine learning or statistics for mathematical modeling with a deep understanding of the mathematical foundations including linear algebra, statistics, and machine learning.
-4. The candidate is familiar with Python and R. 
-5. The candidate is proficient in English writing and speaking. 
-
-Please send your resume and a statement of interests to [Dr. Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/) (Email: shenhaowang@ufl.edu). Please highlight your GPA in your resume and elaborate on your plan for the Ph.D. position and why your past experiences fit this position in the state of interests. In your application to the Ph.D. program, please say explicitly that you are willing to collaborate with Prof. Shenhao Wang with elaboration on the overlapping research interests. 
-
 ## Our work
 The lab's work has been published in a wide range of journals and conferences. Our work about integrating discrete choice models and deep neural networks has been published in *Transportation Research Part B: methodological*, *Transportation Research Part C: emerging technologies*, and *Journal of Choice Modeling*. Our work about mobility networks has been published in *IEEE Transactions on Intelligent Transportation Systems* and *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining*. Our work about computational fairness and smart governance has been published in *Transportation Research Part A: Policy and Practice* and *International Journal of Sustainable Transportation*. The research has been funded by the US Department of Energy [(DOE)](https://www.energy.gov/) and Singapore-MIT Alliance for Research and Technology [(SMART)](https://smart.mit.edu/).
 
