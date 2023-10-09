@@ -20,7 +20,7 @@ The lab is recruiting candidates for **fully funded Ph.D. positions**, who can s
 
 To apply, please send your resume and cover letter to [Dr. Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/) [shenhaowang@ufl.edu](mailto:shenhaowang@ufl.edu), detailing your GPA, research experience, publication history, and TOEFL scores in your resume. In your cover letter, explain your motivation for applying, your research interests, and why your past experiences make you a suitable candidate for this position. 
 
-To apply successfully, complete your application and submit required materials on [UF Grad Online Application Portal] (https://www.applyweb.com/uflgrad/index.ftl). When you apply, please explicitly state your interest in collaborating with Dr. Wang and outline specific research interests in your research statement.
+To apply successfully, complete your application and submit required materials on [UF Grad Online Application Portal](https://www.applyweb.com/uflgrad/index.ftl). When you apply, please explicitly state your interest in collaborating with Dr. Wang and outline specific research interests in your research statement.
 
 ## MIT-UF-NU 2023 Joint Summer Internship Program
 ### Program description
