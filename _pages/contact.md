@@ -21,7 +21,7 @@ Position Details:
 * **Location**: Gainesville, Florida
 *	**Application deadline**: **March 30, 2024**. If the positions remain unfilled after the deadline, we will continue to evaluate the applications in a case-by-case manner.
 
-* **How to apply**: Fill out this [application form](https://forms.gle/TbRbksrXYCi3fxn47)
+**How to apply**: Fill out this [application form](https://forms.gle/TbRbksrXYCi3fxn47)
 
 ## 2024 PhD Positions
 The lab is recruiting candidates for **fully funded Ph.D. positions**, who can start the Ph.D. program in 2024 Fall with the application starting in 2023 Fall. The Ph.D. candidate will be in the [Department of Urban and Regional Planning](https://dcp.ufl.edu/academics/phd8/), [College of Design, Construction, and Planning](https://dcp.ufl.edu/) at the [University of Florida](https://www.ufl.edu/). The candidate can also obtain a dual master's degree in [Computer Science](https://www.cise.ufl.edu/academics/graduate/masters-program/). The Ph.D. position is funded by fellowship or research assistantship, covering tuition and stipend. The ideal Ph.D. candidate should have the following capacity:
