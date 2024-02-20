@@ -21,6 +21,19 @@ Position Details:
 * **Location**: Gainesville, Florida
 *	**Application deadline**: **March 30, 2024**. If the positions remain unfilled after the deadline, we will continue to evaluate the applications in a case-by-case manner.
 
+Your Role:
+As a Postdoctoral Researcher, you will play a vital role in advancing the research agenda of the Urban AI Lab. Your responsibilities will include the development, deployment, and evaluation of the urban mobility system using AI, along with engaging communities for feedback. The two postdoctoral researchers will be supervised by Prof. Shenhao Wang, Prof. Yuheng Bu, and Prof. Lingqian Hu at the UFL, in collaboration with Prof. Jinhua Zhao from MIT and Prof. Haris Koutsopoulos from NEU. The two postdoctoral researchers will also have chances to supervise master and undergraduate students from the Urban Analytics program at the UFL. 
+
+Contact:
+* [Shenhao Wang](shenhaowang@ufl.edu)
+
+Links to Supervisors:
+* Shenhao Wang. [Google Scholar](https://scholar.google.com/citations?user=01AmQ8wAAAAJ&hl=en)
+* Lingqian Hu. [Google Scholar](https://scholar.google.com/citations?user=pwT51XEAAAAJ&hl=en)
+* Yuheng Bu. [Google Scholar](https://scholar.google.com/citations?hl=en&user=1jPQEVMAAAAJ&view_op=list_works&sortby=pubdate)
+* Jinhua Zhao. [Google Scholar](https://scholar.google.com/citations?user=bC0BOGoAAAAJ&hl=en&oi=ao)
+* Haris Koutsopoulos. [Google Scholar](https://scholar.google.com/citations?user=FFoUiqEAAAAJ&hl=en)
+
 **How to apply**: Fill out this [application form](https://forms.gle/TbRbksrXYCi3fxn47)
 
 ## 2024 PhD Positions
