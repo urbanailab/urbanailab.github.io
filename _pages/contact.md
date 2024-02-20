@@ -10,6 +10,19 @@ author_profile: true
 * [Webpage @UF](https://dcp.ufl.edu/urp/people_wang_s/)
 
 
+## 2024 Two Postdoc Positions
+The Urban AI Lab in the [Department of Urban and Regional Planning](https://dcp.ufl.edu/academics/phd8/), along with the [Department of Electrical and Computer Engineering](https://www.ece.ufl.edu/) at the University of Florida (UFL) are hiring two Postdoctoral Researchers, who can contribute to our cutting-edge research in developing adaptive mobility services using artificial intelligence (AI) and multi-level connected and automated mobility systems. We are looking for expertise in travel demand analysis, deep learning, graph neural networks, spatiotemporal modeling, emerging mobility, community engagement, and survey design. This project is a collaborative effort involving prestigious institutions, including the Massachusetts Institute of Technology (MIT), the University of Florida (UFL), and Northeastern University (NEU), among many others. The project seeks to address mobility challenges in accessing critical healthcare destinations by leveraging AI techniques to provide adaptive and equitable mobility services to low-income communities. 
+
+Position Details:
+* **Title**: Postdoctoral Associates. Depending on the candidates’ background, we can also offer Instructional Assistant Professor positions. 
+*	**Salary Range**: $50,000 - $70,000
+*	**Contract Period**: 2 years for postdocs, and 3 years for instructional assistant professors.
+*	**Starting time**: **Fall 2024**
+* **Location**: Gainesville, Florida
+*	**Application deadline**: **March 30, 2024**. If the positions remain unfilled after the deadline, we will continue to evaluate the applications in a case-by-case manner.
+
+* **How to apply**: Fill out this [application form](https://forms.gle/TbRbksrXYCi3fxn47)
+
 ## 2024 PhD Positions
 The lab is recruiting candidates for **fully funded Ph.D. positions**, who can start the Ph.D. program in 2024 Fall with the application starting in 2023 Fall. The Ph.D. candidate will be in the [Department of Urban and Regional Planning](https://dcp.ufl.edu/academics/phd8/), [College of Design, Construction, and Planning](https://dcp.ufl.edu/) at the [University of Florida](https://www.ufl.edu/). The candidate can also obtain a dual master's degree in [Computer Science](https://www.cise.ufl.edu/academics/graduate/masters-program/). The Ph.D. position is funded by fellowship or research assistantship, covering tuition and stipend. The ideal Ph.D. candidate should have the following capacity:
 1. Bachelor's or Master's degree, with preference for majors in urban planning, civil/transportation engineering, or geographic information systems. Relevant backgrounds in computer science, economics, architecture, and landscape design are also considered.
